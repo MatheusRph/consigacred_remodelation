@@ -1,0 +1,6 @@
+{
+  "name": "ConsigaCred",
+  "description": "Plataforma de soluções financeiras com crédito consignado, antecipação FGTS e simulador de crédito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
